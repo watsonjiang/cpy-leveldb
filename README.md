@@ -1,5 +1,6 @@
 # cpy-leveldb #
-Python bindings for LevelDB using leveldb c api
+Python bindings for LevelDB using leveldb c api.
+
 Pyhton 3 compatible.
 
 # 1. Build Instructions #
