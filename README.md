@@ -1,7 +1,6 @@
 # cpy-leveldb #
 Python bindings for LevelDB using leveldb c api
-(http://code.google.com/p/leveldb/)
-author: Fu Haiping (haipingf@gmail.com)
+Pyhton 3 compatible.
 
 # 1. Build Instructions #
 
